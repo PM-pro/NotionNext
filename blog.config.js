@@ -23,9 +23,6 @@ const BLOG = {
   CONTACT_WEIBO：流程。环境。NEXT_PUBLIC_CONTACT_WEIBO  ||  '' ,  // 你的微博个人主页
   CONTACT_TWITTER：流程。环境。NEXT_PUBLIC_CONTACT_TWITTER  ||  '' ,  // 你的推特个人主页
   CONTACT_GITHUB：进程。环境。NEXT_PUBLIC_CONTACT_GITHUB  ||  'https://github.com/PM-pro' ,  // 你的github个人主页 例如 https://github.com/tangly1024
-  CONTACT_TELEGRAM：进程。环境。NEXT_PUBLIC_CONTACT_TELEGRAM  ||  '' ,  // 你的电报地址 例如 https://t.me/tangly_1024
-  CONTACT_LINKEDIN：进程。环境。NEXT_PUBLIC_CONTACT_LINKEDIN  ||  '' ,  // 你的linkedIn首页
-  CONTACT_JIKE：进程。环境。NEXT_PUBLIC_CONTACT_LINKEDIN  ||  'https://okjk.co/wam5jW' ,  // 你的即刻个人主页
 
   // 网站字体
   FONT_STYLE: process.env.NEXT_PUBLIC_FONT_STYLE || 'font-serif', // ['font-serif','font-sans'] 两种可选，分别是衬线和无衬线: 参考 https://www.jianshu.com/p/55e410bd2115
